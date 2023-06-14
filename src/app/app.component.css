@@ -1,0 +1,7 @@
+input.ng-invalid.ng-dirty, select.ng-invalid.ng-dirty{
+  border: solid 1px red;
+}
+
+.btn-primary{
+  margin-top: 16px;
+}
